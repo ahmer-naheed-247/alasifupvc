@@ -17,7 +17,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 })->name('home');
-
+Route::get('/upvc_details', function () {
+    return view('upvc_details');
+})->name('upvc_details');
+Route::get('/led_mirrors', function () {
+    return view('led_mirrors');
+})->name('led_mirrors');
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

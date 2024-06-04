@@ -9,8 +9,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To Al-Asif Upvc Aluminium & Doors Systems</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Upvc Aluminium Windows & Doors Systems</h1>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>
@@ -23,8 +23,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To Al-Asif Upvc Aluminium & Doors Systems</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Upvc Aluminium Windows & Doors Systems</h1>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>
@@ -37,8 +37,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To Al-Asif Upvc Aluminium & Doors Systems</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Upvc Aluminium Windows & Doors Systems</h1>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>
@@ -168,10 +168,10 @@
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item" id="uPVC_Doors">
                         <div class="overflow-hidden">
-                            <img class="img-fluid service-img" src="{{ asset('img/services/upvc_doors_designs/door_designs(1).jpeg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                            <img class="img-fluid service-img" src="{{ asset('img/services/upvc_doors_designs/door_designs(33).jpeg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">uPvc doors design</h4>
+                            <h4 class="mb-3">uPVC doors design</h4>
                             <p>Single glazed, Double glazed and Double glazed with Georgian Bars, Full and half panel doors.</p>
                             <a class="btn btn-link" href="{{ route('upvc_details') }}">View Details</a>
                         </div>
@@ -189,19 +189,49 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item" id="shower_cabins_vanties">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item" id="sky_lights">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="{{ asset('img/service-2.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                            <img class="img-fluid" src="{{ asset('img\services\diamond_cut_designs\4.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">Shower Cabins/Vanities</h4>
-                            <p>Discover our elegant range of shower cabins designed for a luxurious bathing experience. 
+                            <h4 class="mb-2">Diamond cut work glass work</h4>
+                            <p>
+                                Intricate glasswork featuring diamond-cut patterns. 
                             </p>
-                            <a class="btn btn-link" href="#">View Details</a>
+                            <a class="btn btn-link" href="{{ route('diamond_cute_glass_work') }}">View Details</a>
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item" id="sky_lights">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_work\15.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-2">12 mm Glass work</h4>
+                            <p>
+                                Durable and stylish 12mm glasswork with intricate designs and superior clarity. 
+                            </p>
+                            <a class="btn btn-link" href="{{ route('12_mm_glass_work') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item" id="sky_lights">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_sky_light\1.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-2">12mm Glass Sky Light</h4>
+                            <p>
+                                Sturdy 12mm glass skylight providing excellent natural light and modern aesthetics. 
+                            </p>
+                            <a class="btn btn-link" href="{{ route('12_mm_glass_sky_light') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- 
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item" id="sliding_windows">
                         <div class="overflow-hidden">

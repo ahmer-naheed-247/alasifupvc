@@ -23,6 +23,16 @@ Route::get('/upvc_details', function () {
 Route::get('/led_mirrors', function () {
     return view('led_mirrors');
 })->name('led_mirrors');
+Route::get('/diamond_cute_glass_work', function () {
+    return view('diamond_cute_glass_work');
+})->name('diamond_cute_glass_work');
+Route::get('/12_mm_glass_work', function () {
+    return view('12_mm_glass_work');
+})->name('12_mm_glass_work');
+Route::get('/12_mm_glass_sky_light', function () {
+    return view('12_mm_glass_sky_light');
+})->name('12_mm_glass_sky_light');
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

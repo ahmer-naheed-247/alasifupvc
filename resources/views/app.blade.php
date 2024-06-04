@@ -75,11 +75,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Services</h4>
-                    <a class="btn btn-link" href="{{ route('home') }}#uPVC_Doors">uPVC Doors</a>
-                    <a class="btn btn-link" href="{{ route('home') }}#shower_cabins_vanties">Shower Cabins/Vanities</a>
-                    <a class="btn btn-link" href="{{ route('home') }}#sky_lights">Sky Lights</a>
-                    <a class="btn btn-link" href="{{ route('home') }}#sliding_windows">Sliding Windows</a>
-                    <a class="btn btn-link" href="{{ route('home') }}#upvc_partitions">uPVC Partitions</a>
+                    <a class="btn btn-link" href="{{ route('home') }}#upvc-doors-design">uPVC doors design</a>
+                    <a class="btn btn-link" href="{{ route('home') }}#led-light-mirror">LED Light Mirror Works</a>
+                    <a class="btn btn-link" href="{{ route('home') }}#diamond-cut-work">Diamond cut work glass work</a>
+                    <a class="btn btn-link" href="{{ route('home') }}#12-mm-glass-work">12 mm Glass work</a>
+                    <a class="btn btn-link" href="{{ route('home') }}#12mm-glass-sky-light">12mm Glass Sky Light</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Quick Links</h4>

@@ -171,7 +171,7 @@
                             <img class="img-fluid service-img" src="{{ asset('img/services/upvc_doors_designs/door_designs(33).jpeg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">uPVC doors design</h4>
+                            <h4 class="mb-3" id="upvc-doors-design">uPVC doors design</h4>
                             <p>Single glazed, Double glazed and Double glazed with Georgian Bars, Full and half panel doors.</p>
                             <a class="btn btn-link" href="{{ route('upvc_details') }}">View Details</a>
                         </div>
@@ -183,7 +183,7 @@
                             <img class="img-fluid" src="{{ asset('img/services/led_mirrors/led_mirrors(5).jpeg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">LED Light Mirror Works</h4>
+                            <h4 class="mb-3" id="led-light-mirror">LED Light Mirror Works</h4>
                             <p>Illuminate your space with our sleek and energy-efficient skylights, perfect for any home or office.                            </p>
                             <a class="btn btn-link" href="{{ route('led_mirrors') }}">View Details</a>
                         </div>
@@ -195,7 +195,7 @@
                             <img class="img-fluid" src="{{ asset('img\services\diamond_cut_designs\4.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-2">Diamond cut work glass work</h4>
+                            <h4 class="mb-2" id="diamond-cut-work">Diamond cut work glass work</h4>
                             <p>
                                 Intricate glasswork featuring diamond-cut patterns. 
                             </p>
@@ -209,7 +209,7 @@
                             <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_work\15.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-2">12 mm Glass work</h4>
+                            <h4 class="mb-2"id="12-mm-glass-work">12 mm Glass work</h4>
                             <p>
                                 Durable and stylish 12mm glasswork with intricate designs and superior clarity. 
                             </p>
@@ -223,7 +223,7 @@
                             <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_sky_light\1.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-2">12mm Glass Sky Light</h4>
+                            <h4 class="mb-2" id="12mm-glass-sky-light">12mm Glass Sky Light</h4>
                             <p>
                                 Sturdy 12mm glass skylight providing excellent natural light and modern aesthetics. 
                             </p>

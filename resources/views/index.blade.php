@@ -450,22 +450,55 @@
 
 
     <!-- Testimonial Start -->
-    <!-- <div class="container-xxl py-5 wow fadeInUp mt-5" data-wow-delay="0.1s">
+    <div class="container-xxl py-5 wow fadeInUp mt-5" data-wow-delay="0.1s">
         <div class="container">
             <div class="section-title text-center">
                 <h1 class="display-5 mb-5">CEO</h1>
             </div>
             <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light p-2 mx-auto mb-3" src="{{ asset('img/testimonial-1.jpg') }}" style="width: 90px; height: 90px;">
+                    <img class="img-fluid bg-light p-2 mx-auto mb-3" src="{{ asset('img\owner.jpg') }}" style="width: 400px; height: 400px;">
                     <div class="testimonial-text text-center p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
+                        <p>
+                            We belive in providing quality over quantity. Anything less then perfect is not acceptable for us!
+                        </p>
                         <h5 class="mb-1">Asif Shahzad</h5>
-                        <span class="fst-italic">CEO</span>
+                        <span class="fst-italic">Owner</span>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Testimonial End -->
+    <!-- Contact us start -->
+    <div class="container-xxl py-5 wow fadeInUp mt-5" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="section-title text-center" id="contact_us">
+                <h1 class="display-5 mb-5">Contact Us</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel">
+                <div class="testimonial-item text-center">
+                    <div class="testimonial-text text-center p-4">
+                        <h5>Contact Details</h5>
+                        <div class="px-2 text-start">
+                            <span class="h-100 d-inline-flex align-items-center py-2 me-2">
+                                <small class="fa fa-map-marker-alt text-primary me-2"></small>
+                                <small>Ghouri Town 4c/2, Shareefabad Road, Jinnah Town Near Dare Arqam School</small>
+                            </span>
+                            <span class="h-100 d-inline-flex align-items-center py-2">
+                                <small class="far fa-clock text-primary me-2"></small>
+                                <small>Mon - Saturday : 09.00 AM - 09.00 PM</small>
+                            </span>
+                            <br>
+                            <span class="h-100 d-inline-flex align-items-center py-2">
+                                <small class="fa fa-phone-alt text-primary me-2"></small>
+                                <small>03125482656</small>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact us end -->
 @endsection

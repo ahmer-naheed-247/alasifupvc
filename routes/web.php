@@ -32,6 +32,12 @@ Route::get('/12_mm_glass_work', function () {
 Route::get('/12_mm_glass_sky_light', function () {
     return view('12_mm_glass_sky_light');
 })->name('12_mm_glass_sky_light');
+Route::get('/glazed_windows', function () {
+    return view('glazed_windows');
+})->name('glazed_windows');
+Route::get('/demo_videos', function () {
+    return view('demo_videos');
+})->name('demo_videos');
 
 Route::get('/dashboard', function () {
     return view('dashboard');

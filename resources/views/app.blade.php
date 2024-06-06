@@ -86,6 +86,8 @@
                     <a class="btn btn-link" href="{{ route('home') }}#about_us">About Us</a>
                     <a class="btn btn-link" href="{{ route('home') }}#contact_us">Contact Us</a>
                     <a class="btn btn-link" href="{{ route('home') }}#our_services">Our Services</a>
+                    <a href="{{route('demo_videos')}}" class="btn btn-link">Demo Videos</a>
+                    <a href="{{route('home')}}#contact_us" class="btn btn-link">Contact</a>
                 </div>
             </div>
         </div>

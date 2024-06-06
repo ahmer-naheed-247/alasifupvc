@@ -11,6 +11,7 @@
             <a href="{{route('home')}}" class="nav-item nav-link active">Home</a>
             <a href="{{route('home')}}#about_us" class="nav-item nav-link">About</a>
             <a href="{{route('home')}}#our_services" class="nav-item nav-link">Service</a>
+            <a href="{{route('demo_videos')}}" class="nav-item nav-link">Demo Videos</a>
             <a href="{{route('home')}}#our_projects" class="nav-item nav-link">Project</a>
             <a href="{{route('home')}}#contact_us" class="nav-item nav-link">Contact</a>
         </div>

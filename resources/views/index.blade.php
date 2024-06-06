@@ -190,7 +190,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item" id="sky_lights">
+                    <div class="service-item" >
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="{{ asset('img\services\diamond_cut_designs\4.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
@@ -204,7 +204,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item" id="sky_lights">
+                    <div class="service-item" >
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_work\15.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
@@ -218,7 +218,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item" id="sky_lights">
+                    <div class="service-item" >
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="{{ asset('img\services\12_mm_glass_sky_light\1.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
@@ -228,6 +228,20 @@
                                 Sturdy 12mm glass skylight providing excellent natural light and modern aesthetics. 
                             </p>
                             <a class="btn btn-link" href="{{ route('12_mm_glass_sky_light') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item" >
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{ asset('img\services\glazed_windows\1.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-2" id="12mm-glass-sky-light">uPVC single glass & Double glazed French windows</h4>
+                            <p>
+                                uPVC windows available in single glass/double glazed options. 
+                            </p>
+                            <a class="btn btn-link" href="{{ route('glazed_windows') }}">View Details</a>
                         </div>
                     </div>
                 </div>

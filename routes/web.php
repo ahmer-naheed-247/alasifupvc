@@ -38,7 +38,21 @@ Route::get('/glazed_windows', function () {
 Route::get('/demo_videos', function () {
     return view('demo_videos');
 })->name('demo_videos');
-
+Route::get('/commodor_hamza', function () {
+    return view('commodor_hamza');
+})->name('commodor_hamza');
+Route::get('/advocate_jaleel', function () {
+    return view('advocate_jaleel');
+})->name('advocate_jaleel');
+Route::get('/core_commander_office', function () {
+    return view('core_commander_office');
+})->name('core_commander_office');
+Route::get('/brid_khaleeq', function () {
+    return view('brid_khaleeq');
+})->name('brid_khaleeq');
+Route::get('/capt_emad', function () {
+    return view('capt_emad');
+})->name('capt_emad');
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

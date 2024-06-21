@@ -365,8 +365,63 @@
             <div class="section-title text-center">
                 <h1 class="display-5 mb-5">Our Projects</h1>
             </div>
-            <h6>Coming soon</h6>
-
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="commodor_hamza">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\commodor_hamza\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="commodor_hamza">Commodore Hamza sab Nevel Encourage</h4>
+                            <a class="btn btn-link" href="{{ route('commodor_hamza') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="advocate_jaleel">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\advocate_jaleel\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="advocate_jaleel">Advocate Jaleel sab Murree</h4>
+                            <a class="btn btn-link" href="{{ route('advocate_jaleel') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="core_commander_office">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\core_commander_office\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="core_commander_office">Core Commander office morgah</h4>
+                            <a class="btn btn-link" href="{{ route('core_commander_office') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="brid_khaleeq">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\brid_khaleeq\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="brid_khaleeq">Brig Khaleeq ul Rehman DHA 2 ISB</h4>
+                            <a class="btn btn-link" href="{{ route('brid_khaleeq') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="capt_emad">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\capt_emad\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="capt_emad">Captain Emad prefeb office humak</h4>
+                            <a class="btn btn-link" href="{{ route('capt_emad') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- <div class="row g-4 portfolio-container">
                 <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                     <div class="rounded overflow-hidden">

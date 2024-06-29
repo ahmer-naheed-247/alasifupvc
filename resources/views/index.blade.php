@@ -465,6 +465,39 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="cntmnt_host_saadar">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\cntmnt_host_saadar\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="cntmnt_host_saadar">Cantonment Hospital Saddar Rawalpindi</h4>
+                            <a class="btn btn-link" href="{{ route('cntmnt_host_saadar') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="masood_saab_chk_shahzad">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\masood_saab_chk_shahzad\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="masood_saab_chk_shahzad">Mr. Masooud Saab Chak Shahzad Farm House</h4>
+                            <a class="btn btn-link" href="{{ route('masood_saab_chk_shahzad') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="colonel_shams_naval">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\colonel_shams_naval\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="colonel_shams_naval">Colonel Shams Nevel Farm House</h4>
+                            <a class="btn btn-link" href="{{ route('colonel_shams_naval') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- <div class="row g-4 portfolio-container">
                 <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">

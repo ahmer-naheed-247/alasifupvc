@@ -65,6 +65,15 @@ Route::get('/jamia_masjid_quba', function () {
 Route::get('/tahir_taxila', function () {
     return view('tahir_taxila');
 })->name('tahir_taxila');
+Route::get('/cntmnt_host_saadar', function () {
+    return view('cntmnt_host_saadar');
+})->name('cntmnt_host_saadar');
+Route::get('/masood_saab_chk_shahzad', function () {
+    return view('masood_saab_chk_shahzad');
+})->name('masood_saab_chk_shahzad');
+Route::get('/colonel_shams_naval', function () {
+    return view('colonel_shams_naval');
+})->name('colonel_shams_naval');
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

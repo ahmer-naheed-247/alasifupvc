@@ -9,7 +9,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
@@ -23,7 +23,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
@@ -37,7 +37,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium & Doors Systems</h5>
+                                <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
@@ -418,6 +418,50 @@
                         <div class="p-4 text-center border border-5 border-light border-top-0">
                             <h4 class="mb-3" id="capt_emad">Captain Emad prefeb office humak</h4>
                             <a class="btn btn-link" href="{{ route('capt_emad') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="core_cmdr_faheem">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\core_cmdr_faheem\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="core_cmdr_faheem">Core Commander Faheem Sab Nevel Encourage</h4>
+                            <a class="btn btn-link" href="{{ route('core_cmdr_faheem') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="general_umar">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\general_umar\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="general_umar">General Umar Hayat wah cantt</h4>
+                            <a class="btn btn-link" href="{{ route('general_umar') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="jamia_masjid_quba">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\jamia_masjid_quba\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="jamia_masjid_quba">Jamia Masjid Quba Charah chowk</h4>
+                            <a class="btn btn-link" href="{{ route('jamia_masjid_quba') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="tahir_taxila">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\tahir_taxila\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="tahir_taxila">Tahir sab taxila Rwp</h4>
+                            <a class="btn btn-link" href="{{ route('tahir_taxila') }}">View Details</a>
                         </div>
                     </div>
                 </div>

@@ -53,6 +53,18 @@ Route::get('/brid_khaleeq', function () {
 Route::get('/capt_emad', function () {
     return view('capt_emad');
 })->name('capt_emad');
+Route::get('/core_cmdr_faheem', function () {
+    return view('core_cmdr_faheem');
+})->name('core_cmdr_faheem');
+Route::get('/general_umar', function () {
+    return view('general_umar');
+})->name('general_umar');
+Route::get('/jamia_masjid_quba', function () {
+    return view('jamia_masjid_quba');
+})->name('jamia_masjid_quba');
+Route::get('/tahir_taxila', function () {
+    return view('tahir_taxila');
+})->name('tahir_taxila');
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

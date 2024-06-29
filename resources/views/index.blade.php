@@ -460,7 +460,7 @@
                             <img class="img-fluid service-img" src="{{ asset('img\projects\tahir_taxila\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
                         </div>
                         <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3" id="tahir_taxila">Tahir sab taxila Rwp</h4>
+                            <h4 class="mb-3" id="tahir_taxila">Tahir saab taxila Rawalpindi</h4>
                             <a class="btn btn-link" href="{{ route('tahir_taxila') }}">View Details</a>
                         </div>
                     </div>

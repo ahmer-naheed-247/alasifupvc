@@ -10,7 +10,7 @@
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
                                 <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Window's & Doors Solutions</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
                                 <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Window's & Doors Solutions</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
                                 <h5 class="text-white mb-3 animated slideInDown">Welcome To Al-Asif uPVC Aluminium Window's & Doors Solutions</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Windows & Doors Systems</h1>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Best uPVC Aluminium Window's & Doors Solutions</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-2">All kinds of 12mm Doors, Shower, Cabin and Glass Work</p>
                             </div>
                         </div>

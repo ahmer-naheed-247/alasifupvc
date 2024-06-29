@@ -14,8 +14,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row g-4">
         <div class="col-md-6 col-lg-6">
             <div class="service-item">
                 <div class="overflow-hidden">
@@ -23,8 +21,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row g-4">
         <div class="col-md-6 col-lg-6">
             <div class="service-item">
                 <div class="overflow-hidden">
@@ -32,8 +28,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row g-4">
         <div class="col-md-6 col-lg-6">
             <div class="service-item">
                 <div class="overflow-hidden">
@@ -41,8 +35,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row g-4">
         <div class="col-md-6 col-lg-6">
             <div class="service-item">
                 <div class="overflow-hidden">

@@ -498,6 +498,95 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="colonel_ayaz_dha">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\colonel_ayaz_dha\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="colonel_ayaz_dha">Colonel Ayaz saab DHA 2 isb</h4>
+                            <a class="btn btn-link" href="{{ route('colonel_ayaz_dha') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="core_cmd_offc_raheema_abad">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\core_cmd_offc_raheema_abad\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="core_cmd_offc_raheema_abad">Core Commander Office Raheema Abad RWP</h4>
+                            <a class="btn btn-link" href="{{ route('core_cmd_offc_raheema_abad') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="major_hassan_margalla">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\major_hassan_margalla\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="major_hassan_margalla">Major Hassan Margalla Farm house ISB</h4>
+                            <a class="btn btn-link" href="{{ route('major_hassan_margalla') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="sohail_saab_dudyal">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\sohail_saab_dudyal\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="sohail_saab_dudyal">Sohail Saab Dudyal Azad Kashmir</h4>
+                            <a class="btn btn-link" href="{{ route('sohail_saab_dudyal') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="aps_school_hamayu">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\aps_school_hamayu\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="aps_school_hamayu">Aps school humayu campus kachari Chowk rwp</h4>
+                            <a class="btn btn-link" href="{{ route('aps_school_hamayu') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="colonel_shah_rukh">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\colonel_shah_rukh\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="colonel_shah_rukh">Colonel Shah Rukh DHA 2 isb</h4>
+                            <a class="btn btn-link" href="{{ route('colonel_shah_rukh') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="general_Hasan_dha">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\general_Hasan_dha\1.jpg') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="general_Hasan_dha">General Hasan DHA 2 ISB</h4>
+                            <a class="btn btn-link" href="{{ route('general_Hasan_dha') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item" id="zumarad_khan_sweet_home">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid service-img" src="{{ asset('img\projects\zumarad_khan_sweet_home\1.jfif') }}" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+                        </div>
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3" id="zumarad_khan_sweet_home">Zumarad Khan Sweet Home ISB</h4>
+                            <a class="btn btn-link" href="{{ route('zumarad_khan_sweet_home') }}">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
             <!-- <div class="row g-4 portfolio-container">
                 <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">

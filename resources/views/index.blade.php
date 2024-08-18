@@ -1,5 +1,16 @@
 @extends('app')
 @section('content')
+    <div class="container-fluid p-0 pb-5 mb-2">
+        <div id="intro" data-mdb-carousel-init class="carousel slide carousel-fade" data-mdb-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <video class="img-fluid" autoplay loop muted>
+                        <source src="{{ asset('img\demo_videos\intro.mp4')}}" type="video/mp4" />
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative">
